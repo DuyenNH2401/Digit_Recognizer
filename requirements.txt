@@ -1,0 +1,9 @@
+torch
+torchvision
+streamlit
+streamlit-drawable-canvas
+opencv-python-headless
+numpy
+pandas
+scipy
+altair
