@@ -2,8 +2,6 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
 
-A professional-grade **AI Portfolio Project** that goes beyond simple digit recognition. This application demonstrates deep technical understanding of **CNN Interpretability (XAI)**, **Model Robustness**, and **Data-Centric AI** workflows.
-
 Built with **PyTorch** and **Streamlit**. Styled with a custom **Cyberpunk/Neon** theme.
 
 ## ✨ Key Features
@@ -43,8 +41,8 @@ Project/
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/DuyenNH2401/your-repo.git
-    cd your-repo
+    git clone https://github.com/DuyenNH2401/Digit_Recognizer.git
+    cd Digit_Recognizer
     ```
 
 2.  **Install Dependencies**:
@@ -69,4 +67,4 @@ A custom CNN designed for efficiency and accuracy:
 ## 👤 Author
 
 **Duyen Nguyen**
-*Bridging the gap between Black-box AI and Human Interpretation.*
+
