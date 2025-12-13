@@ -1,6 +1,6 @@
-# 🧠 MNIST Interpretability & Robustness App
+# Digit Recognizer With Pytorch CNN
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/](https://duyennh-digit-recognizer.streamlit.app/))
 
 Built with **PyTorch** and **Streamlit**. Styled with a custom **Cyberpunk/Neon** theme.
 
@@ -67,4 +67,5 @@ A custom CNN designed for efficiency and accuracy:
 ## 👤 Author
 
 **Duyen Nguyen**
+
 
