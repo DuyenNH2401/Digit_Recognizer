@@ -66,7 +66,8 @@ A custom CNN designed for efficiency and accuracy:
 
 ## 👤 Author
 
-**Duyen Nguyen**
+**Duyen Nguyen <DuyenNHCE200017@gmail.com>**
+
 
 
 
