@@ -4,7 +4,7 @@
 
 Built with **PyTorch** and **Streamlit**.
 
-## ✨ Key Features
+## Key Features
 
 ### 1. Advanced Inputs & Preprocessing
 -   **Dual Input Modes**: Support for both **Interactive Canvas** (drawing) and **Image Uploads**.
@@ -20,7 +20,7 @@ Built with **PyTorch** and **Streamlit**.
 -   **Noise Injection**: A "Stress Test" slider to add Gaussian noise to inputs, demonstrating the model's stability (or lack thereof) under degradation.
 -   **Active Learning Loop (Feedback)**: A "Human-in-the-loop" system. Users can correct wrong predictions, which saves the data to a local dataset for future model retraining.
 
-## 🛠️ Project Structure
+## Project Structure
 
 ```bash
 Project/
@@ -37,7 +37,7 @@ Project/
     └── config.toml     # Custom Theme Settings
 ```
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1.  **Clone the repository**:
     ```bash
@@ -55,7 +55,7 @@ Project/
     streamlit run app.py
     ```
 
-## 🧠 Model Architecture
+## Model Architecture
 
 A custom CNN designed for efficiency and accuracy:
 -   **Input**: 1x28x28 Grayscale
@@ -67,6 +67,7 @@ A custom CNN designed for efficiency and accuracy:
 ## 👤 Author
 
 **Duyen Nguyen**
+
 
 
 
